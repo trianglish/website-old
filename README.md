@@ -16,7 +16,7 @@ Check out the demo [here](https://nuxt-static.demo.rbi.nz)
 npm install -g commitizen
 
 # install dependencies
-$ npm run install
+$ npm i
 
 # serve with hot reload at localhost:3000
 $ npm run dev

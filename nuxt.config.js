@@ -7,10 +7,9 @@ export default {
    */
   pwa: {
     meta: {
-      name: process.env.npm_package_name || 'Nuxt Static',
+      name: 'Trianglish',
       description:
-        process.env.npm_package_description ||
-        'A full-featured boilerplate for static websites.'
+        'Specialists in social media content creation and organic growth.'
     },
     manifest: {
       short_name: process.env.npm_package_name || 'nuxt-static',

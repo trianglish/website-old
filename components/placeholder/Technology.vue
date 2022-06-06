@@ -1,7 +1,12 @@
 <template>
   <v-tooltip bottom>
     <template v-slot:activator="{ on }">
-      <v-icon v-on="on" :color="technology.color" size="28">
+      <v-icon
+        v-on="on"
+        :color="technology.color"
+        size="28"
+        on-click="technology.url"
+      >
         {{ technology.icon }}
       </v-icon>
     </template>

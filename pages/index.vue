@@ -2,7 +2,10 @@
   <v-container fluid class="fill-height">
     <v-row align="center" justify="center">
       <v-col cols="12" sm="8" md="4">
-        <placeholder-card :card-title="cardTitle" />
+        <placeholder-card
+          :card-title="cardTitle"
+          :card-description="cardDescription"
+        />
       </v-col>
     </v-row>
   </v-container>
@@ -17,7 +20,8 @@ export default {
   },
   data() {
     return {
-      cardTitle: config.pwa.meta.name
+      cardTitle: config.pwa.meta.name,
+      cardDescription: config.pwa.meta.description
     }
   }
 }
