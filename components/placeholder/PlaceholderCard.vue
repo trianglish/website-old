@@ -9,7 +9,7 @@
     <!-- </v-card-title> -->
     <v-card-text>
       <!-- <div>Word of the Day</div> -->
-      <h1 class="text-h1 text--primary pb-4">
+      <h1 class="text-h4 text--primary pb-4">
         {{ cardTitle }} Marketing
         <!-- Tri•ang•l•ish -->
       </h1>
