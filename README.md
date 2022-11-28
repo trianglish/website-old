@@ -1,13 +1,14 @@
-# nuxt-static
+# Trianglish Website
 > Nuxt generate static site boilerplate
 
-Check out the demo [here](https://nuxt-static.demo.rbi.nz)
+Check out the demo [here](https://trianglish.com)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/454e075a-e72f-4760-abd7-60ddce79de0b/deploy-status)](https://app.netlify.com/sites/binz-nuxt-static/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/454e075a-e72f-4760-abd7-60ddce79de0b/deploy-status)](https://app.netlify.com/sites/trianglish-website/deploys)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 [![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release)
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://conventionalcommits.org)
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-908a85?logo=gitpod)](https://gitpod.io/#https://github.com/trianglish/website)
 
 ## Build Setup
 
@@ -30,3 +31,9 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
+# Contributing
+
+See [CONTRIBUTING.md](CONTRIBUTING.md)
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/trianglish/website)
