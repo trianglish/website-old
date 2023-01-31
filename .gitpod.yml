@@ -5,7 +5,7 @@ image:
   file: .gitpod.Dockerfile
 
 tasks:
-  - init: npm install -g commitizen && npm install
+  - init: npm install && npm install -g commitizen
     command: npm run dev
 
 
